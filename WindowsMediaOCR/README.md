@@ -1,6 +1,6 @@
 # WindowsMediaOCR.au3
 
-![https://img.shields.io/badge/AutoIt-3.3.14.5-blue.svg](https://img.shields.io/badge/AutoIt-3.3.14.5-blue.svg)![](https://img.shields.io/badge/ChatGPT-%F0%9F%92%AA%F0%9F%8F%BB-%2377AB9E)
+![https://img.shields.io/badge/AutoIt-3.3.14.5-blue.svg](https://img.shields.io/badge/AutoIt-3.3.14.5-blue.svg) ![](https://img.shields.io/badge/ChatGPT-%F0%9F%92%AA%F0%9F%8F%BB-%2377AB9E)
 
 调用 Windows API 进行 OCR
 
