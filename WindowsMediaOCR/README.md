@@ -17,7 +17,8 @@
 ```
 [
 	["Screenshot", "ToClipboard"],
-	["Execute", "%appdir%\\WindowsMediaOCR.exe -p"]
+	["Execute", "%appdir%\\ClipboardOCR.exe -p", "wait"],
+	["Internal", "ShowTips", "%clipboard%"]
 ]
 ```
 
