@@ -17,10 +17,15 @@
 ```
 [
 	["Screenshot", "ToClipboard"],
-	["Execute", "%appdir%\\ClipboardOCR.exe -p", "wait"],
+	["Execute", "%appdir%\\WindowsMediaOCR.exe -p", "wait"],
 	["Internal", "ShowTips", "%clipboard%"]
 ]
 ```
+
+### 下载地址
+
+https://xmp.lanzouj.com/b0r9kwl5a
+密码:3hst
 
 ## 感谢
 
